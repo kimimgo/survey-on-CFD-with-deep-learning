@@ -1,4 +1,4 @@
-# survey-on-CFD-with-deep-learning
+# survey-on-CFD-using-deep-learning
 
 ## survey papaer
 
