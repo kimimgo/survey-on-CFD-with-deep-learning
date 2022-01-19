@@ -24,7 +24,8 @@
 ### Lagrangian
 
 + [LEARNING LAGRANGIAN FLUID DYNAMICS WITH GRAPH NEURAL NETWORKS](https://openreview.net/pdf?id=7WwYBADS3E_)
-+ <https://openreview.net/pdf/472aadcf08a3b420ef4115e38e4a1057d2d920fc.pdf>
+  + GNN의 구현은 [Learning to Simulate Complex Physics with Graph Networks](https://proceedings.mlr.press/v119/sanchez-gonzalez20a/sanchez-gonzalez20a.pdf)
++ <https://openreview.net/pdf/472aadcf08a3b420ef4115e38e4a1057d2d920fc.pdf>, [DeepMind : Learning to Simulate](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate)
 + <https://simdl.github.io/files/34.pdf>
 + <https://arxiv.org/pdf/2002.09405.pdf> [source](https://github.com/isl-org/DeepLagrangianFluids)
 
